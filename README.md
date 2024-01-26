@@ -1,5 +1,7 @@
 # angularkp
-
+New Changes
+Added Here
+-------
 # .env file details
 HOST='localhost'
 USER='root'
