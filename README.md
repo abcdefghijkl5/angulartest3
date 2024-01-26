@@ -1,9 +1,9 @@
 # angularkp
 New Changes
 Added Here
--------
+------- WWWW
 # .env file details
-HOST='localhost'
+HOST='localhostwwwwqqq'
 USER='root'
 PASSWORD=''
 DATABASE='wwwyour db name'
