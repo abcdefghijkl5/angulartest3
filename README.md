@@ -3,7 +3,7 @@ New Changes
 Added Here
 ------- WWWW
 # .env file details
-HOST='localhostwww'
+HOST='localhostwwwwqqq'
 USER='root'
 PASSWORD=''
 DATABASE='your db name'
