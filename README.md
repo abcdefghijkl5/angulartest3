@@ -6,7 +6,7 @@ Added Here
 HOST='localhostwwwwqqq'
 USER='root'
 PASSWORD=''
-DATABASE='your db name'
+DATABASE='wwwyour db name'
 PORT='your port number'
 JWT_PRIVATE_KEY='your secret key'
 SENDGRID_API_KEY='your sendgrid key'
