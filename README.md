@@ -3,7 +3,7 @@ New Changes
 Added Here
 -------
 # .env file details
-HOST='localhosttt'
+HOST='localhostwww'
 USER='root'
 PASSWORD=''
 DATABASE='your db name'
